@@ -1,9 +1,8 @@
 //
 //  ViewController.swift
-//  Destini-iOS13
+//  Destiny
 //
-//  Created by Angela Yu on 08/08/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Zlata Guseva on 29/08/2022
 //
 
 import UIKit
